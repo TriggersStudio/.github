@@ -1,9 +1,6 @@
 <p align="center">
   <img width="5692" height="3200" alt="banner" src="https://github.com/user-attachments/assets/8f94fcd8-f20b-47b9-bdbe-9801136e8f32" />
 </p>
-
-<h1 align="center">⚔️ TriggersStudio</h1>
-
 <p align="center">
   <strong>Créateurs d'expériences immersives sur Minecraft et au-delà.</strong><br>
   Nous développons des projets ambitieux mêlant technique, aventure et passion.
