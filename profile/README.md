@@ -40,7 +40,7 @@ Nous développons aussi des **outils open-source** pour faciliter la création d
 - API développeur spigot
 - Interface web pour des services tels que CloudNet
 
-🔗 **Cup'Code →** [github.com/triggersstudio](https://github.com/CodeAndCup)
+🔗 **Cup'Code →** [github.com/codeandcup](https://github.com/CodeAndCup)
 🔗 **Triggers Studio →** [github.com/triggersstudio](https://github.com/triggersstudio)
 
 ---
